@@ -1,0 +1,4 @@
+.venv/*
+Muestra_Receta.jpeg
+*.db
+chatGPT_response.py
